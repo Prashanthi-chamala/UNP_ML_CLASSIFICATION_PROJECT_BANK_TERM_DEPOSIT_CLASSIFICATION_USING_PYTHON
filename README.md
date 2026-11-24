@@ -28,7 +28,8 @@ The project focuses on predicting customer subscription to term deposits in a di
 * Generated confusion matrices and detailed classification reports to compare algorithm effectiveness across imbalanced target classes.
 Project Outcome
 
+The project provided hands-on experience in end-to-end data preprocessing, exploratory data analysis, feature engineering, multicollinearity diagnostics, ensemble classification modeling, and deep learning with TensorFlow. It demonstrates how supervised machine learning and neural networks can be applied to banking datasets to predict customer behavior and support targeted marketing strategies.
+
 Google collab link : https://drive.google.com/file/d/1z9ZNLotnNdkttJB0Iyh69n5d49GqRd87/view?usp=sharing
 Presentation Link : https://docs.google.com/presentation/d/1aSogOKz5rF6GS3-Jk5mhKbyVl-1Fd2qK/edit?usp=sharing&ouid=117303035606534826313&rtpof=true&sd=true
 
-The project provided hands-on experience in end-to-end data preprocessing, exploratory data analysis, feature engineering, multicollinearity diagnostics, ensemble classification modeling, and deep learning with TensorFlow. It demonstrates how supervised machine learning and neural networks can be applied to banking datasets to predict customer behavior and support targeted marketing strategies.
